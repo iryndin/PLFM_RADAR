@@ -1,3 +1,7 @@
+# Articles about:
+
+* https://hackaday.io/project/205190-open-source-plfm-radar-up-to-20km-range/details
+  
 # AERIS-10: Open Source Pulse Linear Frequency Modulated Phased Array Radar
 
 [![Hardware: CERN-OHL-P](https://img.shields.io/badge/Hardware-CERN--OHL--P-blue.svg)](https://ohwr.org/cern_ohl_p_v2.txt)
